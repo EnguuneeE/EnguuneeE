@@ -13,9 +13,8 @@
 
 ## About Me
 
-- Coder & Minecraft enjoyer
+- I like minecraft and coding
 - Currently building AI agents that join my locally hosted Minecraft server
-- Always experimenting with bots, games, and weird side projects
 
 ## What I'm Working On
 
