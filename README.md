@@ -17,6 +17,7 @@
 - Currently building AI agents that join my locally hosted Minecraft server
 
 ## What I'm Working On
+## I definetly didn't vibe code all this trust 
 
 | Project | What it is |
 |---------|------------|
