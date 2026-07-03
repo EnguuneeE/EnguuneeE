@@ -20,7 +20,7 @@
 
 | Project | What it is |
 |---------|------------|
-| [mindcraft](https://github.com/mindcraft-bots/mindcraft) | LLM-powered Minecraft agents running on my own server |
+| [mindcraft(forked)] (https://github.com/mindcraft-bots/mindcraft) | LLM-powered Minecraft agents running on my own server |
 | [gdpchat](https://github.com/EnguuneeE/gdpchat) | A chat thing I built |
 | [bortescape](https://github.com/EnguuneeE/bortescape) | A browser game |
 
